@@ -1,4 +1,3 @@
-# 
 do
 	local ui = game.CoreGui:FindFirstChild("ABc")
 	if ui then
